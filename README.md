@@ -1,8 +1,8 @@
 # Musa Nadeem
 
-Software Engineer | Open Source Contributor
+Software Engineer | Machine Learning Engineer
 
-Welcome to my GitHub profile. I am a software developer focused on building scalable applications and contributing to open-source projects.
+Welcome to my GitHub profile. I am a software developer focused on building scalable backend applications and machine learning projects.
 
 ## About Me
 
@@ -16,10 +16,6 @@ Welcome to my GitHub profile. I am a software developer focused on building scal
 - **Frameworks & Libraries:** React, Node.js
 - **Tools & Infrastructure:** Docker, Git, PostgreSQL, AWS
 
-## Featured Projects
-
-- **Chip-8 Emulator:** A comprehensive emulator built from scratch to run classic ROMs, featuring a custom CPU cycle loop and precise graphics renderer.
-- **InboxIQ Gmail Tagger:** An automated classification system that intelligently organizes Gmail inboxes using Large Language Models and the Google Workspace API.
 
 ## GitHub Activity & Contributions
 
@@ -31,6 +27,6 @@ Welcome to my GitHub profile. I am a software developer focused on building scal
 
 ## Contact
 
-- [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-- [Portfolio](https://YOUR_PORTFOLIO_URL)
-- [Email](mailto:YOUR_EMAIL@example.com)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-musa-nadeem-8978b8307/)
+- [Portfolio](https://musanadeem.netlify.app/)
+- [Email](mailto:musan3661@gmail.com)
